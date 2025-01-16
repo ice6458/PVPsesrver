@@ -1,0 +1,1 @@
+modsとtaczをminecraftフォルダに入れてね
