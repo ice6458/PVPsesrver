@@ -1,0 +1,16 @@
+filename = 'caramelChat-mc1.20.1-forge-1.2.0.jar'
+name = 'caramelChat'
+side = 'client'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'f8510477fbce7905ac897f73ea91792445f7049898552a88b7bce11e6cbddd83e087bb25068a33491d459c295c69d51c242decadac9ec69b750b2b2baa5ffa8c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/M4vJe1FJ/versions/Jx8N2CpM/caramelChat-mc1.20.1-forge-1.2.0.jar'
+
+[update.modrinth]
+mod-id = 'M4vJe1FJ'
+version = 'Jx8N2CpM'

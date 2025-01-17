@@ -1,0 +1,16 @@
+filename = 'EnderIO-1.20.1-6.2.7-beta-all.jar'
+name = 'Ender IO'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '423b564d7e5551049fd9f74788894d845dc10800d3eebd7d07468e6e98a41544aeacb7f2296345b3ae059dc3096b1f6870fe2253932fe0f86329063aab32644e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/49ZofO4f/versions/qSNVlsE5/EnderIO-1.20.1-6.2.7-beta-all.jar'
+
+[update.modrinth]
+mod-id = '49ZofO4f'
+version = 'qSNVlsE5'

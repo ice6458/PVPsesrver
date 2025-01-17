@@ -1,0 +1,16 @@
+filename = 'youkaishomecoming-2.3.1.jar'
+name = "Youkai's Homecoming"
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '7895218c8462133eaa5222a0b7623ba37de0ad3c9270624e1eea323f0ad3e80fca91a032ee0a3081fb98ea9bb1690180c636cd27a9f1a0c65d9e923191b3720a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/uJT3ahxz/versions/2h1QHKVs/youkaishomecoming-2.3.1.jar'
+
+[update.modrinth]
+mod-id = 'uJT3ahxz'
+version = '2h1QHKVs'

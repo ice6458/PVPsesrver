@@ -1,0 +1,16 @@
+filename = 'create_ca-2.1 - 1.20.1.jar'
+name = 'Create: Components and Additions'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '071222b4b8ff5a8677b7f95905f3500fb5e3a4c32d48e9bae018a3ef3dbebe2a3375d7907d0c1b7a396af7cffbaadbec99b5792a03fbe1babe981092ef5b9954'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/exLPXAoq/versions/fIbBvZcP/create_ca-2.1 - 1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'exLPXAoq'
+version = 'fIbBvZcP'

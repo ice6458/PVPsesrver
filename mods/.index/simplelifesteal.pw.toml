@@ -1,0 +1,16 @@
+filename = 'lifesteal-1.1.0-forge-1.20.1.jar'
+name = 'LifeSteal'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '305c05401609e948ad75fc2408a6d6da3601b0c5ef38d62034fdf678410020e91193b71f152caf5befa9c6b2907c28fff0cf129201712afa7a25ed09e006f383'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/QELjlrxC/versions/zdDFXLhm/lifesteal-1.1.0-forge-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'QELjlrxC'
+version = 'zdDFXLhm'

@@ -1,0 +1,16 @@
+filename = 'right_click_get_crops-1.20.1-1.6.0.12.jar'
+name = 'Right Click, Get Crops'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'c7db8c425e46f4cc9e37b9fca6b361d0c3f03adddec31b0da84a6ff16cadc889b8bd047f8350eaf52f20387058a7bf1a5b5777ddcd131b7b5585ea4a72f6097e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/phrqJM0N/versions/3BHBBpeD/right_click_get_crops-1.20.1-1.6.0.12.jar'
+
+[update.modrinth]
+mod-id = 'phrqJM0N'
+version = '3BHBBpeD'

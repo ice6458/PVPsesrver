@@ -1,0 +1,16 @@
+filename = 'Brute force Rendering Culling-forge-1.20.1-0.5.12.jar'
+name = 'Brute force Rendering Culling'
+side = 'client'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'f4d045e8390c71d269f5eddb24a239f690f71882'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5404096
+project-id = 996370

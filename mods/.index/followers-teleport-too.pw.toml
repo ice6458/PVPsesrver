@@ -1,0 +1,16 @@
+filename = 'followersteleporttoo-1.20.1-2.6.jar'
+name = 'Followers Teleport Too'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'fabric', 'quilt' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'c05b66c6120b268da2036a8f71544c745c9f31d6'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5572545
+project-id = 682198

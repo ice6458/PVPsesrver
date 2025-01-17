@@ -1,0 +1,16 @@
+filename = 'adaptive_performance_tweaks_core_1.20.1-11.3.0.jar'
+name = 'Adaptive Performance Tweaks: Core'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'c06ea3d4584447debb6d613e7722817c5bdc5d69b6bcc06482d1661ffb01c2d893a1c3bba0c3423a9e7861268e9e0ccec8b283643e1aea6a733d2420aa9fdc70'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/L5xaBiBb/versions/lhl5PzXx/adaptive_performance_tweaks_core_1.20.1-11.3.0.jar'
+
+[update.modrinth]
+mod-id = 'L5xaBiBb'
+version = 'lhl5PzXx'

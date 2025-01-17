@@ -1,0 +1,16 @@
+filename = 'sound-physics-remastered-fabric-1.20.1-1.4.8.jar'
+name = 'Sound Physics Remastered'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric', 'quilt' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '476f8cd5b90de691a0d2e8d91b566c267038a2f9'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5991555
+project-id = 535489

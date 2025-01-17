@@ -1,0 +1,16 @@
+filename = 'Endless Ammo Lib v1.0.jar'
+name = '[TaCZ] Endless Ammo'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.18.2', '1.19.2', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '538f722006f7b4da8ef11f2ecd521337225fec65'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6025368
+project-id = 1166149

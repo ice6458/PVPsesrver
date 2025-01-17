@@ -1,0 +1,16 @@
+filename = 'scaffoldingdropsnearby-1.20.1-3.3.jar'
+name = 'Scaffolding Drops Nearby'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'fabric', 'quilt' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '380abd07c17c422097df7a0dab7e67f71b1e88450f85d0b11c62e39b84ec799f415a6afc110b77c8433aea2cb1eb8d4a2f4cb9e0238c204f73de912d4bf20fa9'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/uO522mgw/versions/g4Sod5Qo/scaffoldingdropsnearby-1.20.1-3.3.jar'
+
+[update.modrinth]
+mod-id = 'uO522mgw'
+version = 'g4Sod5Qo'

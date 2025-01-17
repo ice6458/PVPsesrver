@@ -1,0 +1,16 @@
+filename = 'darksleep-forge-1.20.1-1.0.0.jar'
+name = 'DarkSleep - RPG Sleep Percentage (Fabric/Forge/NeoForge)'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'b01e146315b96329bc30fa118a8e722813b52d41'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5742691
+project-id = 1106281

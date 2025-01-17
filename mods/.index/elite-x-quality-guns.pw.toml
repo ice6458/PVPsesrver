@@ -1,0 +1,16 @@
+filename = 'Elite X Quality Guns Forge v3.2 - (mc1.18.2-1.20.1).jar'
+name = 'Elite X Quality Guns (TACZ)'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.18.2', '1.19.2', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '1dffc0f7524eec4d6fb5fb0745644e111f2660c0'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6058980
+project-id = 1084662

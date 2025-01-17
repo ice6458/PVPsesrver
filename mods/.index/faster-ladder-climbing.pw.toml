@@ -1,0 +1,16 @@
+filename = 'FasterLadderClimbing-1.20.1-0.2.10.jar'
+name = 'Faster Ladder Climbing'
+side = 'client'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'cf27aa0cbcc60a26ce9000b2b1c3c34c8fe84022'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4819758
+project-id = 258881

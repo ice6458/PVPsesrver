@@ -1,0 +1,16 @@
+filename = 'playertrade-1.20.1-b.jar'
+name = 'Player Trade - Secure Trading Between Players'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'd8ce5bb9d87521b13d2df2b22fe19f5aacf52f40'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5110900
+project-id = 499619

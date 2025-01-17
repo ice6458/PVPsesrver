@@ -1,0 +1,16 @@
+filename = 'JsonThings-1.20.1-0.9.4.jar'
+name = 'Json Things'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '78ad7965f709fff289ee802b5847317649c68877'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5815224
+project-id = 541617

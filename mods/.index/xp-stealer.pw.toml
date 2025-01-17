@@ -1,0 +1,16 @@
+filename = 'xp_stealer-1.0.0.jar'
+name = 'Xp Stealer'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '25dbd0656ef98246e5461c172d1052e66e61d603bfafb95102f05bd524e5d62218062913446a4d2fd0565056b7dc86c9afd56ace46abfd36b828ac940a46093d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/q2qVQzuP/versions/LAGvOkG5/xp_stealer-1.0.0.jar'
+
+[update.modrinth]
+mod-id = 'q2qVQzuP'
+version = 'LAGvOkG5'
