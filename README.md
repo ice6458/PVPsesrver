@@ -1,1 +1,2 @@
 modsとtaczをminecraftフォルダに入れてね
+1.20.1でforgeかneoforge使って
