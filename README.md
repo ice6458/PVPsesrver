@@ -1,1 +1,2 @@
 modsとtaczをminecraftフォルダに入れてね
+configはなくてもよさそうだけどとりあえず導入推奨

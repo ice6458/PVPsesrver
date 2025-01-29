@@ -1,0 +1,29 @@
+{
+  "enabled": true,
+  "anchor": "Hotbar",
+  "side": "Right",
+  "orientation": "Vertical",
+  "offhandSlotBehavior": "Adhere",
+  "offsetX": 0,
+  "offsetY": 0,
+  "style": "Rounded",
+  "slotsShown": "Show_Equipped",
+  "emptyIconsShown": true,
+  "reversed": false,
+  "pushBossbars": true,
+  "pushChatBox": true,
+  "pushStatusEffectIcons": true,
+  "pushSubtitles": true,
+  "slotTextures": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "borderLength": 3,
+  "matchBorderAndSlotTextures": true,
+  "bossbarSpacing": 0,
+  "statusEffectIconSpacing": 0,
+  "minOffsetBeforePushingChatBox": 0,
+  "minOffsetBeforePushingSubtitles": 0
+}

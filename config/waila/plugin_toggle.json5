@@ -1,0 +1,13 @@
+{
+  "shouldersurfing:plugin": true,
+  "waila:core": true,
+  "waila:vanilla": true,
+  "waila:harvest": true,
+  "waila:extra": true,
+  "waila:forge": true,
+  "wthitharvestability:plugin": true,
+  "chesttracker:wthit": true,
+  "waystones:plugin": true,
+  "mekanism:plugin": true,
+  "mekanismcardboardtooltip:plugin": true
+}

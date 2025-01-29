@@ -1,0 +1,22 @@
+{
+	"nestedTrinketObject": {
+		"GiveHealthOnEquip": false,
+		"TakeHealthOnUnequip": true
+	},
+	"nestedHeartObject": {
+		"RedHealthHealAmountWhenAte": 20.0,
+		"YellowHealthHealAmountWhenAte": 40.0,
+		"GreenHealthHealAmountWhenAte": 60.0,
+		"SingleHealthCanisterHealthValue": 2
+	},
+	"nestedLootChance": {
+		"RedHeartLootChance": 1.0,
+		"YellowHeartDungeonLootChance": 0.5,
+		"YellowHeartFortressLootChance": 1.0,
+		"GreenHeartLootChance": 0.5
+	},
+	"nestedStackCount": {
+		"CanisterStackCount": 10,
+		"HeartStackCount": 10
+	}
+}

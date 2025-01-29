@@ -1,0 +1,24 @@
+{
+	"mergeKnockbackAndToughness": true,
+	"knockback": {
+		"enabled": true,
+		"position": "HUD",
+		"side": "LEFT",
+		"tweakX": 0,
+		"tweakY": 0
+	},
+	"toughness": {
+		"enabled": true,
+		"position": "HUD",
+		"side": "LEFT",
+		"tweakX": 0,
+		"tweakY": 0
+	},
+	"hotIcons": {
+		"enabled": true,
+		"position": "HUD",
+		"side": "LEFT",
+		"tweakX": 0,
+		"tweakY": 0
+	}
+}

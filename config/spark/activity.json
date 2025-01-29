@@ -1,0 +1,15 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "ice6458",
+      "uniqueId": "25ce62e0-e70c-4723-9459-980405bcdb78"
+    },
+    "time": 1738156828645,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/x7LF367rgL"
+    }
+  }
+]
